@@ -79,7 +79,7 @@ main.cards section.card.payhere{
 main.cards section.card.wallet{
     box-shadow: 20px 20px 50px -12px #df7a7a;
 }
-@keyframes floatcase{ /* animação para os cards flutuarem*/
+@keyframes floatcase{ /* animação para os cards flutuarem para cima*/
     0%
     {
       transform: translateY(0px);
